@@ -3,9 +3,12 @@
   }
   
   .slider {
+   
     width: 300px;
     text-align: center;
     overflow: hidden;
+    margin:auto;
+    padding: 25px 0 15px 0;
   }
   
   .slides {
